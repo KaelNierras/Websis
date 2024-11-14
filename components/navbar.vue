@@ -39,7 +39,7 @@ body {
 
 .navbar {
   display: flex;
-  background-color: #333;
+  background-color: #a6aebf;
   padding: 10px 20px;
   justify-content: space-between;
   align-items: center;
@@ -53,6 +53,7 @@ body {
 }
 
 .navbar a:hover {
+  border-radius: 5px;
   background-color: #555;
 }
 
@@ -67,6 +68,7 @@ body {
 
 .navbar .menu .dropdown {
   position: absolute;
+  border-radius: 5px;
   top: 100%;
   left: 0;
   background-color: #333;
