@@ -13,13 +13,13 @@
     </div>
     <div>
       <div class="menu">
-        <a href="#dashboard">Dashboard</a>
-        <a href="#contact">Contact</a>
+        <NuxtLink to="/dashboard">Dashboard</NuxtLink>
+        <NuxtLink to="/contacts">Contact</NuxtLink>
         <div class="menu-item">
-          <a href="#login">Account</a>
+          < <a href="#login">Account</a>>
           <div class="dropdown">
-            <a href="#login">Login</a>
-            <a href="#register">Register</a>
+            <NuxtLink to="/login">Login</NuxtLink>
+            <NuxtLink to="/register">Register</NuxtLink>
           </div>
         </div>
       </div>
