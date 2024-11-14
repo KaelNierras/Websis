@@ -1,3 +1,1 @@
-<template>
-    This is the register page
-</template>
+<template>This is the register page lamaw</template>
