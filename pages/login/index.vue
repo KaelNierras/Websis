@@ -61,7 +61,7 @@
                     </div>
                     <span style="width: 150px;">Forgot password</span>
                 </div>
-                <button><a id="link" style="text-decoration: none; color: white;" href="/dashboard/">Sign In</a></button><br>
+                <button><a style="text-decoration: none; color: white;" href="/dashboard">Sign In</a></button><br>
                 <button style="background-color: #fff; color: black;">Sign In with Google</button>
             </form>
             <p>Don't have an account? <a href="/register">Sign up for free!</a></p>
