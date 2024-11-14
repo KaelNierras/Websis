@@ -16,7 +16,7 @@
         <NuxtLink to="/dashboard">Dashboard</NuxtLink>
         <NuxtLink to="/contacts">Contact</NuxtLink>
         <div class="menu-item">
-          < <a href="#login">Account</a>>
+          <a href="#login">Account</a>
           <div class="dropdown">
             <NuxtLink to="/login">Login</NuxtLink>
             <NuxtLink to="/register">Register</NuxtLink>
