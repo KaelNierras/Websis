@@ -61,10 +61,10 @@
                     </div>
                     <span style="width: 150px;">Forgot password</span>
                 </div>
-                <button>Sign In</button><br>
+                <button><a id="link" style="text-decoration: none; color: white;" href="/dashboard/">Sign In</a></button><br>
                 <button style="background-color: #fff; color: black;">Sign In with Google</button>
             </form>
-            <p>Don't have an account? <a href="">Sign up for free!</a></p>
+            <p>Don't have an account? <a href="/register">Sign up for free!</a></p>
         </div>
         <div style="background-image: url(https://images.unsplash.com/photo-1610433572201-110753c6cff9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); background-size: cover;">
             
