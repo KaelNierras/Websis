@@ -1,1 +1,1 @@
-<template>This is the register page lamaw</template>
+<template>This is the register page this is another push</template>
